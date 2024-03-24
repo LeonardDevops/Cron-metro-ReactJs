@@ -72,3 +72,10 @@ h5 {
     color: rgb(255, 255, 255);
     background-color: black;
 }
+
+@media(max-width:412px) {
+    .container-one {
+        width: 370px;
+        height: 370px;
+    }
+}
